@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstallDemoKt</string>
+    <string name="authorityOfAppPackageProvider" translatable="false">com.example.installdemokt.fileprovider</string>
+</resources>
